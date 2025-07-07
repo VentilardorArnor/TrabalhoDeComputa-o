@@ -1,4 +1,4 @@
-# gemini2.py
+#Fotovoltaico.py
 
 Simulador 3D de Fazenda Fotovoltaica com Sombreamento e Geração de Energia
 
